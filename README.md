@@ -1,5 +1,3 @@
-# Jenkins-Ubuntu
-
 Java JRE Installation
 =====================
 
